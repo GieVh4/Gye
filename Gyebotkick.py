@@ -6,7 +6,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,base64,requests,urllib
 #Jangan Cuma Pake Doang Skali Kali Invite Admi GyeVha
 cl = LINETCR.LINE()
-cl.login(token='EreSSUk2przfs9rqRFf1.hcj9sxaRwlwOuJpWfCWgmq.T0UYM7quCQ+b9fv9iqAu/0VtnvBqKASaSX5v7jPRo4g=')
+cl.login(token='Masukan Toketnya Disini Eh Salah Token Maksudnya')
 cl.loginResult()
 
 KAC = (cl,ki,kk,kc) 
