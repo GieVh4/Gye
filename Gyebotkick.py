@@ -9,7 +9,7 @@ cl = LINETCR.LINE()
 cl.login(token='Masukan Toketnya Disini Eh Salah Token Maksudnya')
 cl.loginResult()
 
-KAC = (cl,ki,kk,kc) 
+ki = kk = kc = cl
 
 print "Login GyeVhaBot Berhasil"
 reload(sys)
